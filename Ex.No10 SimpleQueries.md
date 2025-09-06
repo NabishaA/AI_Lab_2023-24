@@ -88,6 +88,5 @@ american(west).
 ### Output:
 ![Uploading image.png…]()
 
-
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
