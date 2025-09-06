@@ -34,7 +34,8 @@ eats(sue, X) :-
 ```
 
 ### Output:
-![image](https://github.com/Rajithxx/AI_Lab_2023-24/assets/148357145/c3034336-258c-4077-b01d-27415fb7d372)
+<img width="688" height="209" alt="image" src="https://github.com/user-attachments/assets/5f9820c5-b770-4b23-b1c9-c8e1723831bf" />
+
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -47,15 +48,15 @@ Convert the facts in predicate form to clauses and then prove by resolution: “
 ### Program:
 ```
 likes(steve, X) :-
- easy_course(X).
+easy_course(X).
 hard_course(science).
 easy_course(X) :-
- in_department(X, have_fun).
+in_department(X, have_fun).
 in_department(bk301, have_fun).
-```
 
 ### Output:
-![image](https://github.com/Rajithxx/AI_Lab_2023-24/assets/148357145/38a485f0-1385-4bd8-905d-b774930886a5)
+<img width="684" height="96" alt="image" src="https://github.com/user-attachments/assets/7655708f-fd40-42b8-88c1-53616ddea5c8" />
+
 
 ### Task 3:
 Consider the statement <br> 
@@ -85,7 +86,8 @@ american(west).
 ```
 
 ### Output:
-![image](https://github.com/Rajithxx/AI_Lab_2023-24/assets/148357145/0d91172b-9b7c-40ad-8560-1545a4c81656)
+![Uploading image.png…]()
+
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
