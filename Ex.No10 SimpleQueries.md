@@ -86,7 +86,9 @@ american(west).
 ```
 
 ### Output:
-![Uploading image.png…]()
+
+<img width="440" height="105" alt="image" src="https://github.com/user-attachments/assets/d6ed5f62-7bd2-414d-8771-f4bb59d1a237" />
+
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
