@@ -14,6 +14,7 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 8. Run the program  to find answer of  query.
 
 ### Program:
+```
 move(1,X,Y,_) :-  
     write('Move top disk from '), 
     write(X), 
@@ -27,7 +28,7 @@ move(N,X,Y,Z) :-
     move(1,X,Y,_), 
     move(M,Z,Y,X).
 
-
+```
 ### Output:
 <img width="680" height="235" alt="image" src="https://github.com/user-attachments/assets/7a6c5eb8-5d64-4fcb-8383-f0cfe5c0b22f" />
 
