@@ -1,6 +1,8 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
+
 ### DATE:06.09.2025                                                                           
 ### REGISTER NUMBER :212223060177
+
 ### AIM: 
 To write a prolog program to find the answer of query. 
 ###  Algorithm:
@@ -53,7 +55,7 @@ hard_course(science).
 easy_course(X) :-
 in_department(X, have_fun).
 in_department(bk301, have_fun).
-
+```
 ### Output:
 <img width="684" height="96" alt="image" src="https://github.com/user-attachments/assets/7655708f-fd40-42b8-88c1-53616ddea5c8" />
 
@@ -83,6 +85,7 @@ missile(m).
 owns(nano,m).
 enemy(nano,america).
 american(west).
+
 ```
 
 ### Output:
